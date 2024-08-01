@@ -1,0 +1,3 @@
+If u want Normal fullscreen then use: bind = $mainMod, M, fullscreen
+
+If u want Fullscreen without hiding the Bar bind = $mainMod, M, fullscreen, 1
